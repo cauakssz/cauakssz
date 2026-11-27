@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=cauakssz)<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=%23FFFFFF?&random=false&width=435&lines=Hello,+my+name+is+Cauã)](https://git.io/typing-svg)
 ##
 <div align="center"> 
